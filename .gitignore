@@ -1,0 +1,3 @@
+#ignora tutti i file con estensione .log e .DS_Store
+*.log
+*.DS_Store
