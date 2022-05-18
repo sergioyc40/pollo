@@ -1,3 +1,11 @@
 #ignora tutti i file con estensione .log e .DS_Store
 *.log
 *.DS_Store
+
+#ignora tutti i file che finiscono con le lettere 
+specificate
+*.[xy]
+
+#ignora tutti i file che finiscono con un determinato 
+simbolo
+*~
