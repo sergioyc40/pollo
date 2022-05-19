@@ -12,3 +12,6 @@ simbolo
 
 #ignora cartella e sia cartelle che file contenuti
 cartella inutile con file inutili da ignorare/**/*
+
+#ignora cartella con logs e tutti i suoi file
+cartella con logs/**/*
